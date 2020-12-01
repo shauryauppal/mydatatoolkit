@@ -23,7 +23,9 @@ Author: [shaurya](https://www.linkedin.com/in/shaurya-uppal/)
     m. [DeText](https://github.com/linkedin/detext): DeText: A Deep Neural Text Understanding Framework for Ranking and Classification  
     n. [Spark-NLP](https://nlp.johnsnowlabs.com/)  
     o. [Date Parser](https://github.com/scrapinghub/dateparser): Support for almost every existing date format: absolute dates, relative dates (“two weeks ago” or “tomorrow”), timestamps, etc.  
-    p. [Contraction](https://github.com/kootenpv/contractions): Solve contractions like you’re -> you are
+    p. [Contraction](https://github.com/kootenpv/contractions): Solve contractions like you’re -> you are<br>
+    q. [PolyFuzzy](https://github.com/MaartenGr/PolyFuzz): Fuzzy string matching, grouping, and evaluation. Supports - TFIDF ngram characterlevel, BERT, editdistance, etc.
+    
 
 3.  Managing Data Science Projects  
     a. [DVC:](https://dvc.org/) Data Version Control for data science models and large size datasets  
